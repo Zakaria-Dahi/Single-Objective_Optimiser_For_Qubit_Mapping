@@ -1,0 +1,4 @@
+v1: 'trivial' layout selection method
+v2: ‘dense’ layout selection method
+v3: ‘noise_adaptive’ layout selection method
+v4: ‘sabre’ layout selection method
